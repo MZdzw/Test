@@ -3,4 +3,4 @@ To jest drugi commit
     Lorem ipsum lorem ipsum
 To jest trzeci commit
     Bla bla bla bla
-nastepny feature
+nastepny drugi feature
