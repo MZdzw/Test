@@ -1,0 +1,2 @@
+To jest plik feature_new
+    Obsługa wyjątków

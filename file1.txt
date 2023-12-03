@@ -1,3 +1,7 @@
 To jest pierwszy commit
 To jest drugi commit
     Lorem ipsum lorem ipsum
+To jest feature_new
+    Inicjalizacja zmiennych
+    Naprawianie bugów
+    
