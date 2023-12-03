@@ -3,3 +3,7 @@ To jest drugi commit
     Lorem ipsum lorem ipsum
 To jest trzeci commit
     Bla bla bla bla
+To jest feature_new
+    Inicjalizacja zmiennych
+    Naprawianie bugów
+    

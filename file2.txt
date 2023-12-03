@@ -1,0 +1,5 @@
+To jest plik feature_new
+    Obsługa wyjątków
+To Klaudia pisała
+    Tak było
+A to też dodała
